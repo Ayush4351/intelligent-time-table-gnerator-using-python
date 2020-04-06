@@ -1,5 +1,7 @@
 # Intelligent-time-table-gnerator-using-python
-This is a university project of subject Artificial Intelligence (INT404)<br>
+This is a university project of subject Artificial Intelligence (INT404)<br><br>
+
+# Lovely Professional University
 <br>Group Members<br>
 Name :- Ayush<br>
 Roll no. :- B39<br>
